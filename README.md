@@ -2,8 +2,8 @@
 
 <h2>👨‍💻 Programming Projects:</h2>
 
-- <b> Web Development</b>
-    -[Strong Stripes Website (Non-profit I founded)](https://www.strongstripes.org/)
+- <b> Web Development</b> <br>
+    -[Strong Stripes Website](https://www.strongstripes.org/) <br>
     -[Bookage](https://github.com/RemleyGHooker/Bookage)
 
 - <b>C++ </b>
