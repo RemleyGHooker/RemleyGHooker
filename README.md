@@ -4,18 +4,19 @@
 
 - <b> Web Development</b> <br>
     -[Strong Stripes Website](https://www.strongstripes.org/) <br>
-    -[Bookage](https://github.com/RemleyGHooker/Bookage)
+    -[Bookage Website](https://github.com/RemleyGHooker/Bookage)
 
 - <b>C++ </b>
 
 - <b>Python</b>
 
-<h2>👨‍💻 Data Science Projects:</h2>
+## 👨‍💻 Data Science Projects:
+- [Wealth Distribution Among Billionaires](https://github.com/RemleyGHooker/Wealth-Distribution-Among-Billionaires-Project)
 
 <h2>📺 YouTube Demos</h2>
 
 - [Petal Pals App Demo](https://www.youtube.com/watch?v=OJJLY3mLpqo)
-
+- [Bookage Website Demo](https://www.youtube.com/watch?v=4zxh6LH5hiM)
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="RemleyHooker | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
