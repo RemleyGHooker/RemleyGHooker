@@ -4,11 +4,11 @@
 
 - <b> Web Development</b>
     -[Strong Stripes Website (Non-profit I founded)](https://www.strongstripes.org/)
+    -[Bookage](https://github.com/RemleyGHooker/Bookage)
 
 - <b>C++ </b>
 
 - <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
 <h2>👨‍💻 Data Science Projects:</h2>
 
