@@ -1,7 +1,7 @@
 # Hi, I'm Remley! 
 [Programmer](https://github.com/RemleyGHooker), [Engineer](https://www.linkedin.com/in/remley-hooker-58354b1b0/), [YouTuber](https://www.youtube.com/@remley5472/featured)
 
-## 💖 Programming Projects:
+## Programming Projects:
 
 - **Web Development**
   - [Strong Stripes Website](https://www.strongstripes.org/)
@@ -11,11 +11,11 @@
 
 - **Python**
 
-## 💜 Data Science Projects:
+## Data Science Projects:
 
 - [Wealth Distribution Among Billionaires](https://github.com/RemleyGHooker/Wealth-Distribution-Among-Billionaires-Project)
 
-## 💙 YouTube Demos:
+## YouTube Demos:
 
 - [Petal Pals App Demo](https://www.youtube.com/watch?v=OJJLY3mLpqo)
 - [Bookage Website Demo](https://www.youtube.com/watch?v=4zxh6LH5hiM)
