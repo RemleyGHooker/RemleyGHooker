@@ -10,7 +10,7 @@
 - **C++**
 
 - **Python**
-
+  - [Battery Voltage Checker](https://github.com/RemleyGHooker/Battery-voltage-checker?tab=readme-ov-file#battery-voltage-checker)
 ## Data Science Projects:
 
 - [Wealth Distribution Among Billionaires](https://github.com/RemleyGHooker/Wealth-Distribution-Among-Billionaires-Project)
