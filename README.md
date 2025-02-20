@@ -26,7 +26,7 @@
 
 ## Engineering Projects
 
-- [Pedestrian Alert System] (https://github.com/RemleyGHooker/PedestrianAlertSystem)
+- [Pedestrian Alert System](https://github.com/RemleyGHooker/PedestrianAlertSystem)
 
 ## Connect with me:
 
