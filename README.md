@@ -24,6 +24,10 @@
 - [Petal Pals App Demo](https://www.youtube.com/watch?v=OJJLY3mLpqo)
 - [Bookage Website Demo](https://www.youtube.com/watch?v=4zxh6LH5hiM)
 
+## Engineering Projects
+
+- [Pedestrian Alert System] (https://github.com/RemleyGHooker/PedestrianAlertSystem)
+
 ## Connect with me:
 
 [<img align="left" alt="RemleyHooker | YouTube" width="22px" src="https://simpleicons.org/icons/youtube.svg" />](https://www.youtube.com/channel/UCYuPg-P6nGDLB0O7LH2oTUw)
