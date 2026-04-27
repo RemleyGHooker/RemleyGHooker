@@ -2,7 +2,8 @@
 [Programmer](https://github.com/RemleyGHooker), [Engineer](https://www.linkedin.com/in/remley-hooker-58354b1b0/), [YouTuber](https://www.youtube.com/@remley5472/featured)
 
 ## Programming Projects:
-
+- **AI Safety/Infra**
+  - [Prompt injection vulnerability scanner](https://github.com/RemleyGHooker/vulnscan)
 - **Web Development**
   - [Strong Stripes Website](https://www.strongstripes.org/)
   - [Bookage Website](https://github.com/RemleyGHooker/Bookage)
