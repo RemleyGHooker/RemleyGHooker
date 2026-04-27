@@ -27,6 +27,7 @@
 
 ## Engineering Projects
 
+- [Custom ESC (firmware)](https://github.com/RemleyGHooker/CustomESC)
 - [Pedestrian Alert System](https://github.com/RemleyGHooker/PedestrianAlertSystem)
 
 ## Connect with me:
