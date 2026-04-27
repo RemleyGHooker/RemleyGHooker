@@ -4,6 +4,7 @@
 ## Programming Projects:
 - **AI Safety/Infra**
   - [Prompt injection vulnerability scanner](https://github.com/RemleyGHooker/vulnscan)
+  - [Ethical Edge AI Orchestration](https://github.com/RemleyGHooker/shattered-grid-mvp)
 - **Web Development**
   - [Strong Stripes Website](https://www.strongstripes.org/)
   - [Bookage Website](https://github.com/RemleyGHooker/Bookage)
